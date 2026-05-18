@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @denisequindere
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me denisequindere@gmail.com
 
 <!---
